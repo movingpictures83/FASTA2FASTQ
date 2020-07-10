@@ -1,0 +1,2 @@
+Prefix plugins/FASTA2FASTQ/example
+Plugin FASTA2FASTQ inputfile HMP_MOCK.v35.fasta outputfile HMP_MOCK.v35.fastq
